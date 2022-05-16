@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @DungeonViper
-- 👀 I’m interested in AWS, Python, CyberSecurity.
-- 🌱 I’m currently learning everything I can (forever). Focus on AWS Cloud practitioner and Textract/Chime/Lambda (This month anyway)
-- 💞️ I’m looking to collaborate on whatever's cool.
 - 📫 How to reach me @DungeonViper
