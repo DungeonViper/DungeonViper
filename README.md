@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @DungeonViper
-- 📫 How to reach me @DungeonViper
+📫 How to reach me @DungeonViper
